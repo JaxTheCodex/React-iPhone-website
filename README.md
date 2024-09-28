@@ -17,7 +17,7 @@ This project is a 3D animated website built using modern web technologies includ
 
 Check out the live version of the 3D animated website here:
 
-👉 **[Live Website on Netlify](https://your-netlify-link-here.netlify.app/)**
+👉 **[Live Website on Netlify](https://iphone-14-website.netlify.app/)**
 
 ## Features
 
